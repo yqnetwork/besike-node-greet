@@ -2,7 +2,7 @@
   "name": "greet",
   "version": "0.0.0",
   "description": "A simple and naive greeter",
-  "main": "src/index.js",
+  "main": "lib/index.js",
   "bin": {
     "greet": "./bin/greet.js"
   },
@@ -19,6 +19,7 @@
   },
   "devDependencies": {
     "chai": "^1.10.0",
+    "coffee-script": "^1.9.0",
     "mocha": "^2.1.0"
   }
 }

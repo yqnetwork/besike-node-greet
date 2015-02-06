@@ -28,8 +28,10 @@ node_modules
 .lock-wscript
 
 # Lesson
-LESSON*
+lesson
+
+# ScriptCoffee compile result
+lib
 
 # Tar
 *.tgz
-
